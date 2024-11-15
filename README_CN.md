@@ -1,5 +1,5 @@
 ---
-permalink: /cn
+permalink: /about_cn
 ---
 
 # Hello, world!
