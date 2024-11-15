@@ -1,3 +1,7 @@
+---
+permalink: /cn
+---
+
 # Hello, world!
 
 ## About
