@@ -1,5 +1,5 @@
 ---
-permalink: /about_cn
+permalink: /cn
 ---
 
 # Hello, world!
@@ -7,3 +7,8 @@ permalink: /about_cn
 ## About
 
 ![avatar](assets/avatar.jpeg)
+
+
+
+[<img src="assets/avatar.jpeg" width="200"/>](assets/avatar.jpeg)
+
