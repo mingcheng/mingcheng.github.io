@@ -2,13 +2,19 @@
 permalink: /cn
 ---
 
-<div style="text-align:center;">
-  <img style="margin:3em 0; width:150px; border: .2em solid black; border-radius: 50%;" src="assets/avatar_white.jpg" width="150"/>
+<div style="text-align:center; margin:3em 0;">
+  <img style="width:150px; border: .2em solid black; border-radius: 50%;" src="assets/avatar_white.jpg" width="150"/>
+  <br />
+  <div style="margin-top: 1em;">
+  <a href="/">English</a> | <a href="/cn">简体中文</a>
+  </div>
 </div>
 
 # 👋 您好，我是明城
 
-每次在社区演讲的时候，都要重新介绍自己，非常的耗费自己的精力和口舌，于是就有了这个页面。以下这里是我的简历，希望能够帮助您了解我。
+每次在社区参加活动的时候，都要重新介绍自己，非常的耗费自己的精力和口舌，于是就有了这个页面。
+
+以下这里是我的简历，希望能够帮助您了解我。
 
 ## 🏠 基本信息
 
