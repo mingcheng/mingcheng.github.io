@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: mingcheng's Resume
+title: mingcheng's resume
 ---
 
 <div style="text-align:center; margin:3em 0;">
@@ -19,7 +19,7 @@ It is extremely stressful for me to have to reintroduce myself each time I parti
 
 I was raised in Ningbo, which is a small city in the east of mainland China. I graduated from [Zhejiang University of Science and Technology(ZUST)](https://en.zust.edu.cn) in 2008, and I am currently pursuing studies at [Shanghai International Studies University (SISU)](https://en.shisu.edu.cn).
 
-I am currently a PPMC & Committer at the [Apache Software Foundation](https://www.apache.org/) and an open-source enthusiast at [Ant Group](https://github.com/antgroup).
+I am a PPMC & Committer at the [Apache Software Foundation](https://www.apache.org/) and an open-source evangelist working for the [Ant Group](https://github.com/antgroup).
 
 I formerly worked for companies and teams including `Alibaba (Taobao)`, `NetEase`, and `Sifou` as a developer, architect, technical lecturer, technical lead and general manager.
 
@@ -35,8 +35,7 @@ I also have deep experience in the management of technical teams, the developmen
 
 ### 🐜 Technical Evangelist, Ant Group, Present
 
-In charge of the management, technical evangelism, and results of Ant Group's open source initiatives is the [Ant Group Open Source Office](https://opensource.antgroup.com/).
-
+I am responsible for supervising the management, technical evangelism, and effects of [Ant Group's open source programs](https://opensource.antgroup.com) over the [whole organization](https://github.com/antgroup).
 
 ### 🪶 PMC & Committer, Apache Community, Present
 
@@ -76,9 +75,13 @@ At the Taobao UED department, I was a member of the front-end architecture team,
 
 I appreciate you reading this far. Here are some of my contact details in case you'd like to get in touch with me. I welcome any inquiries on career development, technical consultation, etc.
 
-- Mail: mingcheng[at]outlook.com , mingcheng[at]apache.org
-- Blog: https://www.gracecode.com/ (Majority of the content is in Chinese)
-- GitHub：https://github.com/mingcheng
-- Twitter: https://twitter.com/feelinglucky (Majority of the content is in Chinese)
+- GitHub：[@mingcheng](https://github.com/mingcheng)
+- Twitter: [@feelinglucky](https://twitter.com/feelinglucky) (Majority of the content is in Chinese)
+- E-Mail:
+  - mingcheng[at]outlook.com (primary)
+  - mingcheng[at]apache.org (for open-source community)
+  - 0243701308[at]shisu.edu.cn (for academic)
+- Blog: [gracecode.com](https://www.gracecode.com/) (Majority of the content is in Chinese)
+- LinkedIn: [@feelinglucky](https://www.linkedin.com/in/feelinglucky/)
 
 `- eof -`
