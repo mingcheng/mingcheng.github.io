@@ -4,7 +4,7 @@ title: mingcheng's resume
 ---
 
 <div style="text-align:center; margin:3em 0;">
-  <img style="width:150px; border: .2em solid black; border-radius: 50%;" src="assets/avatar.jpeg" width="150"/>
+  <img style="width:150px; border: .2em solid black; border-radius: 50%;" src="assets/avatar_black.png" width="150"/>
   <br />
   <div style="margin-top: 1em;">
   <a href="/">English</a> | <a href="/cn">简体中文</a>

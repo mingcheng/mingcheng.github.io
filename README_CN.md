@@ -4,7 +4,7 @@ title: 明城的简历
 ---
 
 <div style="text-align:center; margin:3em 0;">
-  <img style="width:150px; border: .2em solid black; border-radius: 50%;" src="assets/avatar_white.jpg" width="150"/>
+  <img style="width:150px; border: .2em solid black; border-radius: 50%;" src="assets/avatar_white.webp" width="150"/>
   <br />
   <div style="margin-top: 1em;">
   <a href="/">English</a> | <a href="/cn">简体中文</a>
